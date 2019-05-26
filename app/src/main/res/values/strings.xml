@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Game_Guide</string>
+    <string name="main_header">Dragonball Fighterz Guide</string>
+    <string name="char_btn">Character Selection</string>
+    <string name="overview_btn">Game Overview</string>
+    <string name="terms_btn">Terminology</string>
+
+    <string name="overview_ph">This will be the overview page.</string>
+    <string name="overview_lab">Game Overview</string>
+
+    <string name="character_lab">Fighterz</string>
+    <string name="character_ph">Individual Fighter guides will go here</string>
+
+    <string name="glossary_ph">This will be the glossary page.</string>
+    <string name="glossary_lab">Glossary</string>
+</resources>
