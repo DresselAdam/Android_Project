@@ -2,6 +2,7 @@
 COP 2001 Programming Methodology.
 
 Sprint 3 Outcomes
+	
 	- Planned extensive UI layout for dragonball game guide. Flowchart design for activities. (1 hour)
 	- Watched tutorials on working with BottomNavigationView activity. (1 hour)
 	- Began implementation of bottom nav into current android project. (2 hours)
