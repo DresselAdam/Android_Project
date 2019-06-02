@@ -1,6 +1,11 @@
 # Android_Project
 COP 2001 Programming Methodology.
 
+Sprint 3 Outcomes
+	- Planned extensive UI layout for dragonball game guide. Flowchart design for activities. (1 hour)
+	- Watched tutorials on working with BottomNavigationView activity. (1 hour)
+	- Began implementation of bottom nav into current android project. (2 hours)
+
 Sprint 2 Outcomes
 
 	- Was able to finish the Build Your First App In Kotlin Tutorial https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0 (2-3 hours)
