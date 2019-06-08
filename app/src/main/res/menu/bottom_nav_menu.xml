@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/action_Home"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/bottomNavHome"
+    android:enabled="true">
+    </item>
+    <item
+            android:id="@+id/action_Fighterz"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/bottomNavFighterz"
+            android:enabled="true">
+    </item>
+    <item
+            android:id="@+id/action_Mechanics"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/bottomNavMechanics"
+            android:enabled="true">
+    </item>
+    <item
+            android:id="@+id/action_Glossary"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/bottomNavGlossary"
+            android:enabled="true">
+    </item>
+    <item
+            android:id="@+id/action_Misc"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/bottomNavMisc"
+            android:enabled="true">
+    </item>
+</menu>

@@ -13,4 +13,11 @@
 
     <string name="glossary_ph">This will be the glossary page.</string>
     <string name="glossary_lab">Glossary</string>
+
+    <string name="bottomNavHome">Home</string>
+    <string name="bottomNavFighterz">Fighterz</string>
+    <string name="bottomNavMechanics">Mechanics</string>
+    <string name="bottomNavGlossary">Glossary</string>
+    <string name="bottomNavMisc">Misc</string>
+
 </resources>
