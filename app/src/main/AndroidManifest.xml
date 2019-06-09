@@ -10,7 +10,7 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme" tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".TermsActivity"
-                  android:label="@string/glossary_lab"
+                  android:label="@string/glossary_label"
                   android:parentActivityName=".MainActivity">
         </activity>
         <activity
