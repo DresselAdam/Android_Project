@@ -1,6 +1,13 @@
 # Android_Project
 COP 2001 Programming Methodology.
 
+Sprint 5 Outcomes (Approximate Time - 3 hours)
+	- Changed opening page to the homeFragment
+	- Added an imageView to homeFragment and glossaryFragment https://developer.android.com/reference/android/widget/ImageView
+		- Added resource file and used in image view
+		- Changed image properties with image manipulation editor GIMP https://www.gimp.org/
+	- Added a scrollView to homeFragment and glossaryFragment https://developer.android.com/reference/android/widget/ScrollView?hl=en
+
 Sprint 4 Outcomes (Approximate Time - 4 hours)
 
 	- Followed tutorial on making a functional navigation bar with fragments. First I added a framelayout and BottomNavigationView to my main activity and then applied appropriate color and string values. 
