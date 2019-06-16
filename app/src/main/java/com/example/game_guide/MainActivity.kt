@@ -10,6 +10,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.fragment_home.*
 
 const val EXTRA_MESSAGE = "com.example.Game_Guide.MESSAGE"
 
@@ -59,7 +60,8 @@ class MainActivity : AppCompatActivity() {
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        val homeFragment = HomeFragment.newInstance()
+        openFragment(homeFragment)
 
         val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottom_navigation)
 
@@ -67,13 +69,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun openChar(view: View){
-        val intent = Intent(this, CharacterActivity::class.java)
-        startActivity(intent)
-    }
-
-    fun openTerms(view: View){
-        val intent = Intent(this, TermsActivity::class.java)
-        startActivity(intent)
-    }
 }
