@@ -2,6 +2,7 @@
 COP 2001 Programming Methodology.
 
 Sprint 5 Outcomes (Approximate Time - 3 hours)
+
 	- Changed opening page to the homeFragment
 	- Added an imageView to homeFragment and glossaryFragment https://developer.android.com/reference/android/widget/ImageView
 		- Added resource file and used in image view
