@@ -1,6 +1,13 @@
 # Android_Project
 COP2001 Android Project
 
+Sprint 6 Outcomes
+- Added utility to fighterz fragment including 3 buttons and a body paragraph.
+- Added a fighterz list activity that opens from the fighterz fragment.
+- Added method to main to open fighterz_list activity
+- Created a navigation drawer activity.
+- Edit of navigation drawer activity - changed color scheme, images and text values.
+
 Goals
 
 	- Learn Kotlin
