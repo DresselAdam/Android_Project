@@ -24,6 +24,25 @@
 
     <string name="character_lab">Fighterz</string>
     <string name="character_ph">Individual Fighter guides will go here</string>
+    <string name="fighterz_body">DragonBall Fighterz started with a base cast of 21 fighterz and 3 unlockable fighterz.
+        With the
+        gradual release of the first two fighterZ passes, 8 fighterz have been added for a total of 32 fighterz. With a
+        decently
+        sized roster it may seem daunting to pick a 3 character team and stick to it.
+        There are three sections of the fighterz page, each to help the player decide on a team that is right for them.
+        The first "Fighterz", is a complete list of characters in the game, each with their own strengths and
+        weaknesses. "Team Building"
+        Will focus on what makes a good team, as well as the basic run-down of how team construction should play out.
+        Finally, we
+        have the tier list, which is a not so objective list of characters from best to worst voted by the community on
+        eventhubs.
+        Keep in mind that the tier list is mainly designed for top-level play, however a higher-tier character may have
+        tools that
+        make the game easier compared to the rest of the cast.
+    </string>
+    <string name="fighter_list_btn">Fighterz List</string>
+    <string name="team_building">Team Building</string>
+    <string name="tier_list">Tier List</string>
 
     <string name="glossary_ph">This will be the glossary page.</string>
     <string name="glossary_label">Glossary</string>
@@ -40,5 +59,19 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fighterz_list">FighterzList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
 
 </resources>

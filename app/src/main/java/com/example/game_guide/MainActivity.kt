@@ -55,6 +55,7 @@ class MainActivity : AppCompatActivity() {
         transaction.commit()
     }
 
+    // Start up method. Creates the main activity with bottom nav layout. Opens the home fragment on startup.
     override fun onCreate(savedInstanceState: Bundle?) {
         var toolbar: ActionBar = supportActionBar!!
 
@@ -67,6 +68,11 @@ class MainActivity : AppCompatActivity() {
 
         bottomNavigationView.setOnNavigationItemSelectedListener (mOnNavigationItemSelectedListener)
 
+    }
+    // Method to open the fighter list activity.
+    fun openFighterList(view:View) {
+        val intent = Intent(this, FighterzList::class.java)
+        startActivity(intent)
     }
 
 }
