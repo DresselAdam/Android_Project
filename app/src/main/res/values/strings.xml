@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Game_Guide</string>
+    <string name="main_header">Dragonball Fighterz Guide</string>
+    <string name="char_btn">Character Selection</string>
+    <string name="overview_btn">Game Overview</string>
+    <string name="terms_btn">Terminology</string>
+
+    <string name="overview_ph">This will be the overview page.</string>
+    <string name="overview_lab">Game Overview</string>
+    <string name="overview_body">Dragon Ball FighterZ (ドラゴンボール ファイターズ Doragon Bōru Faitāzu, lit. Dragon Ball Fighters)
+        is a Dragon Ball video game developed by Arc System Works and published by Bandai Namco for PlayStation 4, Xbox
+        One and Microsoft Windows via Steam. It was released on January 26, 2018 for Japan, North America, and Europe.
+        It released for Nintendo Switch on September 28, 2018. Confirmed by Bandai Namco, this game has both Japanese
+        and English dubbing, with the English dubbing being handled by Funimation.[1]
+
+        A port for the Nintendo Switch was announced at E3 2018, released on September 28, 2018. Pre-ordering provided
+        players with Dragon Ball Z: Super Butōden as well as SSGSS Goku and Vegeta.[2] Open beta began August 10,
+        2018.[3] A manga adaptation named Despo FighterZ is being released.
+
+        Dragon Ball FighterZ is a 3v3 fighting game developed by Arc System Works based on the Dragon Ball franchise. It
+        utilises the same graphical stylings as the Guilty Gear Xrd series by using 3D models to simulate 2D art, except
+        it runs on Unreal Engine 4 as opposed to Guilty Gear Xrd, which runs on Unreal Engine 3.
+    </string>
+
+    <string name="character_lab">Fighterz</string>
+    <string name="character_ph">Individual Fighter guides will go here</string>
+    <string name="fighterz_body">DragonBall Fighterz started with a base cast of 21 fighterz and 3 unlockable fighterz.
+        With the
+        gradual release of the first two fighterZ passes, 8 fighterz have been added for a total of 32 fighterz. With a
+        decently
+        sized roster it may seem daunting to pick a 3 character team and stick to it.
+        There are three sections of the fighterz page, each to help the player decide on a team that is right for them.
+        The first "Fighterz", is a complete list of characters in the game, each with their own strengths and
+        weaknesses. "Team Building"
+        Will focus on what makes a good team, as well as the basic run-down of how team construction should play out.
+        Finally, we
+        have the tier list, which is a not so objective list of characters from best to worst voted by the community on
+        eventhubs.
+        Keep in mind that the tier list is mainly designed for top-level play, however a higher-tier character may have
+        tools that
+        make the game easier compared to the rest of the cast.
+    </string>
+    <string name="fighter_list_btn">Fighterz List</string>
+    <string name="team_building">Team Building</string>
+    <string name="tier_list">Tier List</string>
+
+    <string name="glossary_ph">This will be the glossary page.</string>
+    <string name="glossary_label">Glossary</string>
+
+    <string name="mechanics_ph">This will be the mechanics page.</string>
+
+    <string name="misc_ph">Content of this page TBD</string>
+
+    <string name="bottomNavHome">Home</string>
+    <string name="bottomNavFighterz">Fighterz</string>
+    <string name="bottomNavMechanics">Mechanics</string>
+    <string name="bottomNavGlossary">Glossary</string>
+    <string name="bottomNavMisc">Misc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fighterz_list">FighterzList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
